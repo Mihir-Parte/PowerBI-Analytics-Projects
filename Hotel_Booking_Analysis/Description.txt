@@ -1,0 +1,9 @@
+- Dataset Overview: Contains 119,390 booking records covering guest details, stay information, and cancellations.
+
+- Key Fields: LeadTime, BookingDate, StayDuration, IsCanceled, RoomType.
+
+- Data Sources: Hotel management system exports.
+
+- Data Cleaning: Filled missing values in RoomType, converted BookingDate to datetime format, and standardized text data.
+
+- Key Visuals: Cancellation heatmap, average stay duration chart, and seasonal trend insights.

@@ -1,0 +1,9 @@
+- Dataset Overview: Contains 9,668 media records with release year, genre, and viewer engagement data.
+
+- Key Fields: Title, ReleaseYear, Genre, ViewerRatings, SubscriptionStatus.
+
+- Data Sources: Platform's content database.
+
+- Data Cleaning: Standardized genre names, filled missing values in ViewerRatings, and corrected date format in ReleaseYear.
+
+- Key Visuals: Content performance heatmap, churn prediction matrix, and subscriber retention insights.

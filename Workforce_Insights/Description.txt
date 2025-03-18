@@ -1,0 +1,9 @@
+- Dataset Overview: Contains 1,480 employee records across departments, roles, and tenures.
+
+- Key Fields: Age, Gender, JobRole, Department, YearsAtCompany, JobSatisfaction.
+
+- Data Sources: Internal HR database.
+
+- Data Cleaning: Handled null values in JobSatisfaction and corrected data inconsistencies in YearsAtCompany.
+
+- Key Visuals: Attrition trend chart, department-wise turnover analysis, and satisfaction vs. tenure insights.
